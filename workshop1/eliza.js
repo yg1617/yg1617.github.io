@@ -225,6 +225,10 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x kpop ~*y": [
+    "Which group is your favorite?",
+    "Are you obessesing with the music?"
+    "Since when?"
 };
 
 var default_responses = [
